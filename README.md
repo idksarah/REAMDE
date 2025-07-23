@@ -17,17 +17,17 @@ View it at github.com/idksarah/idksarah.
 See it in action at github.com/idksarah.
 ```
 After completion, receive an [Octocat](https://thegithubshop.com/collections/collectibles/products/1539555-00-invertocat-pin) or [Copilot](https://thegithubshop.com/collections/collectibles/products/1550348-00-copilot-pin) pin.
-## How?
-For your script, use any language you like—eg. Javascript or Python. <br>
-To automate your profile updates, I suggest setting up [Github Actions](https://docs.github.com/en/actions). <br>
-You'll also have to track your time using [Hackatime](https://hackatime.hackclub.com/).<br>
-Last thing you need is a README.md. Include the name of your project, a description, a usage guide, and images.<br>
-## Submission Requirements
+## Requirements
 - Your project must display data from an API
 - Your project must automatically update your profile at least every 24 hours
 - You must track at least 2 hours building on Hackatime
 - You must open source your code on Github
 - Submission must be meaningful
+## How?
+For your script, use any language you like—eg. Javascript or Python. <br>
+To automate your profile updates, I suggest setting up [Github Actions](https://docs.github.com/en/actions). <br>
+You'll also have to track your time using [Hackatime](https://hackatime.hackclub.com/).<br>
+Last thing you need is a README.md. Include the name of your project, a description, a usage guide, and images.<br>
 ## Project Ideas
 - Art from your Github activity using [Octokit JS](https://github.com/octokit/octokit.js/)
 - A weather display using a [weather API](https://www.weatherapi.com/) 
