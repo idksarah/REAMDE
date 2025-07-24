@@ -1,7 +1,7 @@
 <img src="hackclub_logo.png" alt="hackclub_logo" width="200"/>
 
 # REAMDE
-### Design a Github profile README add-on — Receive Github pins <br>
+### Design a Github profile README add-on — receive Github pins <br>
 7/23/25 to 7/24/25 11:59 PM EST <br>
 [Submit](https://forms.hackclub.com/t/aS6SPGMfhTus)<br>
 [#REAMDE on the Hack Club Slack](https://hackclub.slack.com/archives/C096VTGGZ6X)
